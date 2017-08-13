@@ -1,0 +1,37 @@
+{
+    "scope": "source.lua",
+
+    "completions":
+    [
+        { "trigger": "getPlayerX", "contents": "getPlayerX()" },
+		{ "trigger": "getPlayerY", "contents": "getPlayerY()" },
+		{ "trigger": "getMapName", "contents": "getMapName()" },
+		{ "trigger": "getTeamSize", "contents": "getTeamSize()" },
+		{ "trigger": "getUsablePokemonCount", "contents": "getUsablePokemonCount()" },
+		{ "trigger": "isShopOpen", "contents": "isShopOpen()" },
+		{ "trigger": "getMoney", "contents": "getMoney()" },
+		{ "trigger": "isMounted", "contents": "isMounted()" },
+		{ "trigger": "isOpponentShiny", "contents": "isOpponentShiny()" },
+		{ "trigger": "isAlreadyCaught", "contents": "isAlreadyCaught()" },
+		{ "trigger": "isWildBattle", "contents": "isWildBattle()" },
+		{ "trigger": "getActivePokemonNumber", "contents": "getActivePokemonNumber()" },
+		{ "trigger": "getOpponentId", "contents": "getOpponentId()" },
+		{ "trigger": "getOpponentName", "contents": "getOpponentName()" },
+		{ "trigger": "getOpponentHealth", "contents": "getOpponentHealth()" },
+		{ "trigger": "getOpponentHealthPercent", "contents": "getOpponentHealthPercent()" },
+		{ "trigger": "moveToGrass", "contents": "moveToGrass()" },
+		{ "trigger": "moveToWater", "contents": "moveToWater()" },
+		{ "trigger": "usePokecenter", "contents": "usePokecenter()" },
+		{ "trigger": "sortTeamByLevelAscending", "contents": "sortTeamByLevelAscending()" },
+		{ "trigger": "sortTeamByLevelDescending", "contents": "sortTeamByLevelDescending()" },
+		{ "trigger": "attack", "contents": "attack()" },
+		{ "trigger": "weakAttack", "contents": "weakAttack()" },
+		{ "trigger": "run", "contents": "run()" },
+		{ "trigger": "sendUsablePokemon", "contents": "sendUsablePokemon()" },
+		{ "trigger": "onStop", "contents": "onStop()" },
+		{ "trigger": "onPause", "contents": "onPause()" },
+		{ "trigger": "onResume", "contents": "onResume()" },
+		{ "trigger": "onPathAction", "contents": "onPathAction()" },
+		{ "trigger": "onBattleAction", "contents": "onBattleAction()" }
+    ]
+}
