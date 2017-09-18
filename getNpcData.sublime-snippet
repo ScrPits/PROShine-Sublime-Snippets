@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getNpcData()]]></content>
+	<description></description>
+	<tabTrigger>getNpcData</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

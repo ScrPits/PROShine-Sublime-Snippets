@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokedexSeen()]]></content>
+	<description></description>
+	<tabTrigger>getPokedexSeen</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

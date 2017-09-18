@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonHeldItemFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonHeldItemFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonHappinessFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonHappinessFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

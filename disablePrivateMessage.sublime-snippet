@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[disablePrivateMessage()]]></content>
+	<description></description>
+	<tabTrigger>disablePrivateMessage</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

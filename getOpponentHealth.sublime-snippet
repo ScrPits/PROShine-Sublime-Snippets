@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOpponentHealth()]]></content>
+	<description></description>
+	<tabTrigger>getOpponentHealth</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

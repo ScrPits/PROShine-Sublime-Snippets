@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getActiveDigSpots()]]></content>
+	<description></description>
+	<tabTrigger>getActiveDigSpots</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

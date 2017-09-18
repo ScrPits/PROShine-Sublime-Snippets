@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getMoney()]]></content>
+	<description></description>
+	<tabTrigger>getMoney</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

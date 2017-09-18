@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOpponentLevel()]]></content>
+	<description></description>
+	<tabTrigger>getOpponentLevel</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>
