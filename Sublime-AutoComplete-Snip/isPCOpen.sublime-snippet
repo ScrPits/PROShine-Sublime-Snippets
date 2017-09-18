@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isPCOpen()]]></content>
+	<description></description>
+	<tabTrigger>isPCOpen</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

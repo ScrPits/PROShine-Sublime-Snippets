@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isPokemonShiny()]]></content>
+	<description></description>
+	<tabTrigger>isPokemonShiny</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

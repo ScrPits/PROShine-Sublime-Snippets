@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[talkToNpcOnCell()]]></content>
+	<description></description>
+	<tabTrigger>talkToNpcOnCell</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

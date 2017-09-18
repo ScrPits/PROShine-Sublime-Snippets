@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[releasePokemonFromPC()]]></content>
+	<description></description>
+	<tabTrigger>releasePokemonFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

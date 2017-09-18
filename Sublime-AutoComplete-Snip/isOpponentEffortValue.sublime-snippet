@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isOpponentEffortValue()]]></content>
+	<description></description>
+	<tabTrigger>isOpponentEffortValue</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

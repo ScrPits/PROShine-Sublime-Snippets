@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sortTeamByLevelAscending()]]></content>
+	<description></description>
+	<tabTrigger>sortTeamByLevelAscending</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

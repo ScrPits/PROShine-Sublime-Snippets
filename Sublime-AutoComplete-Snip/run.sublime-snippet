@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[run()]]></content>
+	<description></description>
+	<tabTrigger>run</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>
