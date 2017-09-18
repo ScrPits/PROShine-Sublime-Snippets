@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[useItemOnPokemon()]]></content>
+	<description></description>
+	<tabTrigger>useItemOnPokemon</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

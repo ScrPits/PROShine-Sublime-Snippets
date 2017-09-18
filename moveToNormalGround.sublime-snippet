@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveToNormalGround()]]></content>
+	<description></description>
+	<tabTrigger>moveToNormalGround</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

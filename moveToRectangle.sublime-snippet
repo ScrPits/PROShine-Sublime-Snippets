@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveToRectangle()]]></content>
+	<description></description>
+	<tabTrigger>moveToRectangle</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[giveItemToPokemon()]]></content>
+	<description></description>
+	<tabTrigger>giveItemToPokemon</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isWildBattle()]]></content>
+	<description></description>
+	<tabTrigger>isWildBattle</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isAccountMember()]]></content>
+	<description></description>
+	<tabTrigger>isAccountMember</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

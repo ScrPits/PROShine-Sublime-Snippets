@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isSurfing()]]></content>
+	<description></description>
+	<tabTrigger>isSurfing</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

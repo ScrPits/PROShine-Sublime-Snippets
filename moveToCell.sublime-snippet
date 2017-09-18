@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveToCell()]]></content>
+	<description></description>
+	<tabTrigger>moveToCell</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isMounted()]]></content>
+	<description></description>
+	<tabTrigger>isMounted</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>
