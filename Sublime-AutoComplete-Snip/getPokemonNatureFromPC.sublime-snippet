@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonNatureFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonNatureFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

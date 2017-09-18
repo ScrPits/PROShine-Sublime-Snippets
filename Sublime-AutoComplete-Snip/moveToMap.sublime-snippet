@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveToMap()]]></content>
+	<description></description>
+	<tabTrigger>moveToMap</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

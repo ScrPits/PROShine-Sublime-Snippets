@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveToGrass()]]></content>
+	<description></description>
+	<tabTrigger>moveToGrass</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

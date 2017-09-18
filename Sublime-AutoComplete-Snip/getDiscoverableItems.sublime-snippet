@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getDiscoverableItems()]]></content>
+	<description></description>
+	<tabTrigger>getDiscoverableItems</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

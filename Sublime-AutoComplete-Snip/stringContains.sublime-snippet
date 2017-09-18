@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stringContains()]]></content>
+	<description></description>
+	<tabTrigger>stringContains</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

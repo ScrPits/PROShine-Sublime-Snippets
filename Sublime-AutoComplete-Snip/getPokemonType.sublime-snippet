@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonType()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonType</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonRemainingPowerPointsFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonRemainingPowerPointsFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

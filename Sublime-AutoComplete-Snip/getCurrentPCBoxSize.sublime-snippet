@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCurrentPCBoxSize()]]></content>
+	<description></description>
+	<tabTrigger>getCurrentPCBoxSize</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

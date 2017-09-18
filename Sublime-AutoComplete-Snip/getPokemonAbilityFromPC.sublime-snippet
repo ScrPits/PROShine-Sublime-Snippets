@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonAbilityFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonAbilityFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

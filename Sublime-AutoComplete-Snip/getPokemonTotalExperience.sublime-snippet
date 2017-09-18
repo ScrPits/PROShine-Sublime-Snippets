@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonTotalExperience()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonTotalExperience</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

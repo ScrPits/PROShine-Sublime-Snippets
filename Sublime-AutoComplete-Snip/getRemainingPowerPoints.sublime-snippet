@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getRemainingPowerPoints()]]></content>
+	<description></description>
+	<tabTrigger>getRemainingPowerPoints</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

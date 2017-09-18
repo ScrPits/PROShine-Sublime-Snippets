@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonMoveDamageType()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonMoveDamageType</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

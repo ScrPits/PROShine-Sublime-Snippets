@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPCPokemonCount()]]></content>
+	<description></description>
+	<tabTrigger>getPCPokemonCount</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

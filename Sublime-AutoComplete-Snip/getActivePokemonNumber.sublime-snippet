@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getActivePokemonNumber()]]></content>
+	<description></description>
+	<tabTrigger>getActivePokemonNumber</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonMovePower()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonMovePower</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

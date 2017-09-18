@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getActiveHeadbuttTrees()]]></content>
+	<description></description>
+	<tabTrigger>getActiveHeadbuttTrees</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>
