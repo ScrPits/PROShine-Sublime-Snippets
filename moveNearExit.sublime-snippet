@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveNearExit()]]></content>
+	<description></description>
+	<tabTrigger>moveNearExit</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

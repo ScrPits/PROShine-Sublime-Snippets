@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonRemainingPowerPosFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonRemainingPowerPosFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

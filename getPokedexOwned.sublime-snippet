@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokedexOwned()]]></content>
+	<description></description>
+	<tabTrigger>getPokedexOwned</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

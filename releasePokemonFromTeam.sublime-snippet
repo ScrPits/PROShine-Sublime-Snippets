@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[releasePokemonFromTeam()]]></content>
+	<description></description>
+	<tabTrigger>releasePokemonFromTeam</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonNameFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonNameFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

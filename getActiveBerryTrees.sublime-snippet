@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getActiveBerryTrees()]]></content>
+	<description></description>
+	<tabTrigger>getActiveBerryTrees</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

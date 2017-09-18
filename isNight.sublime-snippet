@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isNight()]]></content>
+	<description></description>
+	<tabTrigger>isNight</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

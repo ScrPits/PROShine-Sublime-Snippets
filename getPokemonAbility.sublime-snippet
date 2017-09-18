@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonAbility()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonAbility</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

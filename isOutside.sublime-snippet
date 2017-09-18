@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isOutside()]]></content>
+	<description></description>
+	<tabTrigger>isOutside</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

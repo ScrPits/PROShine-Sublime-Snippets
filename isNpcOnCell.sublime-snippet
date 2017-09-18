@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isNpcOnCell()]]></content>
+	<description></description>
+	<tabTrigger>isNpcOnCell</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

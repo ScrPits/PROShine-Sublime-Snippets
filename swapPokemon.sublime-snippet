@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[swapPokemon()]]></content>
+	<description></description>
+	<tabTrigger>swapPokemon</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

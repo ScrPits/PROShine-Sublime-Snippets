@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isPokemonUsable()]]></content>
+	<description></description>
+	<tabTrigger>isPokemonUsable</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonMoveAccuracyFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonMoveAccuracyFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

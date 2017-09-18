@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IVO()]]></content>
+	<description></description>
+	<tabTrigger>IVO</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

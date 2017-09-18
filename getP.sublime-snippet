@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonMaxHealth()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonMaxHealth</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

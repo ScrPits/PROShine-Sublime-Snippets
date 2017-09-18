@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonRegionFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonRegionFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

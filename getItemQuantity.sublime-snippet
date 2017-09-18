@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getItemQuantity()]]></content>
+	<description></description>
+	<tabTrigger>getItemQuantity</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

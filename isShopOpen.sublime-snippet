@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isShopOpen()]]></content>
+	<description></description>
+	<tabTrigger>isShopOpen</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

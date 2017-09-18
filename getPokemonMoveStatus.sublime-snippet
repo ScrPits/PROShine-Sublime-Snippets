@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonMoveStatus()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonMoveStatus</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

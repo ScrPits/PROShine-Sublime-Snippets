@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonHappiness()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonHappiness</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>
