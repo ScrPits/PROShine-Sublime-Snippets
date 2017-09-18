@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonFormFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonFormFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

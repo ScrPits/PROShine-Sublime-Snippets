@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonMoveName()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonMoveName</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

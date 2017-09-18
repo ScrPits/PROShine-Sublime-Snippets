@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[disableAutoEvolve()]]></content>
+	<description></description>
+	<tabTrigger>disableAutoEvolve</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonMaxPowerPoints()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonMaxPowerPoints</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

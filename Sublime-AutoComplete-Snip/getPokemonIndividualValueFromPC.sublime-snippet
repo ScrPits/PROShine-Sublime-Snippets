@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonIndividualValueFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonIndividualValueFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

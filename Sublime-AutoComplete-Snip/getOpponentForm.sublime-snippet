@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOpponentForm()]]></content>
+	<description></description>
+	<tabTrigger>getOpponentForm</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

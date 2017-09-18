@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fatal()]]></content>
+	<description></description>
+	<tabTrigger>fatal</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

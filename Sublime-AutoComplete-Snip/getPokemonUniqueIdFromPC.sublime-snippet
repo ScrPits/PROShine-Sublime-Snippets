@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonUniqueIdFromPC()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonUniqueIdFromPC</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

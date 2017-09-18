@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonLevel()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonLevel</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

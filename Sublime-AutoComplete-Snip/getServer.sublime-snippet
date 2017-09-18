@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getServer()]]></content>
+	<description></description>
+	<tabTrigger>getServer</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

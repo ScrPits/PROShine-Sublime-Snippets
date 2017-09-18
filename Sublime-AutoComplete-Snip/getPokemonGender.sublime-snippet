@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getPokemonGender()]]></content>
+	<description></description>
+	<tabTrigger>getPokemonGender</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>
