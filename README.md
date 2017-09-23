@@ -1,5 +1,5 @@
-# Text-Editor-Auto-Complete-PROShine
-Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editors
+## Text-Editor-Auto-Complete-PROShine
+Sublime Snippets, AutoComplete .lua functions. Built For PROShine
 
 # Full List for Easy of view
 ```
