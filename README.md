@@ -1,6 +1,7 @@
 # Text-Editor-Auto-Complete-PROShine
-### Sublime Snippets, AutoComplete .lua functions. Built For PROShine
+## Sublime Snippets, AutoComplete .lua functions. Built For PROShine
 <hr>
+
 ## Full List for Easy of view
 ```
     ["log"]
