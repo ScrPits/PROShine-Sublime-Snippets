@@ -12,8 +12,8 @@
 </snippet>
 ```
 
-
 <hr>
+
 ## Full list for easy of view
 ```
     ["log"]
