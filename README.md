@@ -1,7 +1,7 @@
-## Text-Editor-Auto-Complete-PROShine
-Sublime Snippets, AutoComplete .lua functions. Built For PROShine
-
-# Full List for Easy of view
+# Text-Editor-Auto-Complete-PROShine
+### Sublime Snippets, AutoComplete .lua functions. Built For PROShine
+<hr>
+## Full List for Easy of view
 ```
     ["log"]
     ["fatal"]
@@ -10,7 +10,7 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
     ["playSound"]
     ["registerHook"] 
 ```
-# General conditions
+## General conditions
 ```
     ["getPlayerX"]
     ["getPlayerY"]
@@ -131,7 +131,7 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
 
     ["getServer"]
 ```
-# Battle conditions
+## Battle conditions
 ```
     ["isOpponentShiny"]
     ["isAlreadyCaught"]
@@ -149,7 +149,7 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
     ["getOpponentEffortValue"]
     ["getOpponentType"]
 ```
-# Path actions
+## Path actions
 ```
     ["moveToCell"] 
     ["moveToMap"]
@@ -183,16 +183,16 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
     ["enableAutoEvolve"]
     ["disableAutoEvolve"]
 ```
-# Path functions
+## Path functions
 ```
     ["pushDialogAnswer"]
 ```
-# General actions
+## General actions
 ```
     ["useItem"] 
     ["useItemOnPokemon"]
 ```
-# Battle actions
+## Battle actions
 ```
     ["attack"] 
     ["weakAttack"]
@@ -202,7 +202,7 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
     ["sendPokemon"] 
     ["useMove"]
 ```
-# Move learning actions
+## Move learning actions
 ```
     ["forgetMove"] 
     ["forgetAnyMoveExcept"] 
@@ -210,7 +210,7 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
 
 > These Lua Functions are not added to the source yet.
 
-# Custom option slider functions
+## Custom option slider functions
 ```
     ["setOption"]
     ["getOption"]
@@ -218,7 +218,7 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
     ["setOptionDescription"]
     ["removeOption"] 
 ```
-# Custom text option functions
+## Custom text option functions
 ```
     ["setTextOption"]
     ["getTextOption"] 
@@ -226,13 +226,13 @@ Sublime Snippets, AutoComplete .lua functions. Built For PROShine
     ["setTextOptionDescription"] 
     ["removeTextOption"]
 ```
-# File editing actions
+## File editing actions
 ```
     ["logToFile"]
     ["readLinesFromFile"]
     ["getInputDialog"]
 ```
-# Taos
+## Taos
 ```
     ["getSpawnList"] 
 
