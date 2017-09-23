@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[attack()]]></content>
-	<description></description>
+	<description>Uses the most effective offensive move available.</description>
 	<tabTrigger>attack</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>
