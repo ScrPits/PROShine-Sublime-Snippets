@@ -2,16 +2,16 @@
 Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editors
 
 # Full List for Easy of view
-//
+```
     ["log"]
     ["fatal"]
     ["logout"] 
     ["stringContains"]
     ["playSound"]
     ["registerHook"] 
-
+```
 # General conditions
- //
+```
     ["getPlayerX"]
     ["getPlayerY"]
     ["getAccountName"] 
@@ -130,9 +130,9 @@ Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editor
     ["getPokemonFormFromPC"]
 
     ["getServer"]
-
+```
 # Battle conditions
- //
+```
     ["isOpponentShiny"]
     ["isAlreadyCaught"]
     ["isWildBattle"] 
@@ -148,9 +148,9 @@ Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editor
     ["isOpponentEffortValue"]
     ["getOpponentEffortValue"]
     ["getOpponentType"]
-
+```
 # Path actions
- //
+```
     ["moveToCell"] 
     ["moveToMap"]
     ["moveToRectangle"]
@@ -182,18 +182,18 @@ Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editor
     ["disablePrivateMessage"] 
     ["enableAutoEvolve"]
     ["disableAutoEvolve"]
-
+```
 # Path functions
- //
+```
     ["pushDialogAnswer"]
-
+```
 # General actions
- //
+```
     ["useItem"] 
     ["useItemOnPokemon"]
-
+```
 # Battle actions
- //
+```
     ["attack"] 
     ["weakAttack"]
     ["run"]
@@ -201,38 +201,39 @@ Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editor
     ["sendAnyPokemon"] 
     ["sendPokemon"] 
     ["useMove"]
-
+```
 # Move learning actions
- //
+```
     ["forgetMove"] 
     ["forgetAnyMoveExcept"] 
+```
 
-    // Below is not in Snippets but will work
+> These Lua Functions are not added to the source yet.
 
 # Custom option slider functions
- //
+```
     ["setOption"]
     ["getOption"]
     ["setOptionName"] 
     ["setOptionDescription"]
     ["removeOption"] 
-
+```
 # Custom text option functions
- //
+```
     ["setTextOption"]
     ["getTextOption"] 
     ["setTextOptionName"]
     ["setTextOptionDescription"] 
     ["removeTextOption"]
-
+```
 # File editing actions
- //
+```
     ["logToFile"]
     ["readLinesFromFile"]
     ["getInputDialog"]
-
+```
 # Taos
- //
+```
     ["getSpawnList"] 
 
     ["login"]
@@ -245,3 +246,4 @@ Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editor
     ["disableTrainerBattles"]
     ["disableTeamInspection"]
     ["enableTeamInspection"]
+```
