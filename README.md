@@ -2,7 +2,19 @@
 ## Sublime Snippets, AutoComplete .lua functions. Built For PROShine
 <hr>
 
-## Full List for Easy of view
+# How each snippet looks
+```
+<snippet>
+	<content><![CDATA[attack()]]></content>
+	<description>Uses the most effective offensive move available.</description>
+	<tabTrigger>attack</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>
+```
+
+
+<hr>
+## Full list for easy of view
 ```
     ["log"]
     ["fatal"]
