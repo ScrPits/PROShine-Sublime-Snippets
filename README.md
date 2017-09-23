@@ -2,7 +2,7 @@
 Lua AutoComplete Word. For script building for PROShine. Sublime and Atom Editors
 
 Full List for Easy of view
-
+//
     ["log"]
     ["fatal"]
     ["logout"] 
@@ -10,7 +10,8 @@ Full List for Easy of view
     ["playSound"]
     ["registerHook"] 
 
-// General conditions
+ General conditions
+ //
     ["getPlayerX"]
     ["getPlayerY"]
     ["getAccountName"] 
@@ -130,7 +131,8 @@ Full List for Easy of view
 
     ["getServer"]
 
-// Battle conditions
+ Battle conditions
+ //
     ["isOpponentShiny"]
     ["isAlreadyCaught"]
     ["isWildBattle"] 
@@ -147,7 +149,8 @@ Full List for Easy of view
     ["getOpponentEffortValue"]
     ["getOpponentType"]
 
-// Path actions
+ Path actions
+ //
     ["moveToCell"] 
     ["moveToMap"]
     ["moveToRectangle"]
@@ -180,14 +183,17 @@ Full List for Easy of view
     ["enableAutoEvolve"]
     ["disableAutoEvolve"]
 
-// Path functions
+ Path functions
+ //
     ["pushDialogAnswer"]
 
-// General actions
+ General actions
+ //
     ["useItem"] 
     ["useItemOnPokemon"]
 
-// Battle actions
+ Battle actions
+ //
     ["attack"] 
     ["weakAttack"]
     ["run"]
@@ -196,32 +202,37 @@ Full List for Easy of view
     ["sendPokemon"] 
     ["useMove"]
 
-// Move learning actions
+ Move learning actions
+ //
     ["forgetMove"] 
     ["forgetAnyMoveExcept"] 
 
     // Below is not in Snippets but will work
 
-// Custom option slider functions
+ Custom option slider functions
+ //
     ["setOption"]
     ["getOption"]
     ["setOptionName"] 
     ["setOptionDescription"]
     ["removeOption"] 
 
-// Custom text option functions
+ Custom text option functions
+ //
     ["setTextOption"]
     ["getTextOption"] 
     ["setTextOptionName"]
     ["setTextOptionDescription"] 
     ["removeTextOption"]
 
-// File editing actions
+ File editing actions
+ //
     ["logToFile"]
     ["readLinesFromFile"]
     ["getInputDialog"]
 
-// Taos
+ Taos
+ //
     ["getSpawnList"] 
 
     ["login"]
