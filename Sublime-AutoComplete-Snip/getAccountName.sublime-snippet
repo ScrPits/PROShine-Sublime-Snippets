@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getAccountName()]]></content>
-	<description></description>
+	<description>Returns current account name.</description>
 	<tabTrigger>getAccountName</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

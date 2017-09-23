@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[swapPokemonFromPC()]]></content>
-	<description></description>
+	<description>Swap a pokemon from the team with a pokemon from the pc.</description>
 	<tabTrigger>swapPokemonFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

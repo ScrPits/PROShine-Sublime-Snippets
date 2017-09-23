@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonForm()]]></content>
-	<description></description>
+	<description>Returns the form of the specified pokémon in the team (0 if no form).</description>
 	<tabTrigger>getPokemonForm</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

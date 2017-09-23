@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[hasMove()]]></content>
-	<description></description>
+	<description>Returns true if the specified pokémon has a move with the specified name.</description>
 	<tabTrigger>hasMove</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

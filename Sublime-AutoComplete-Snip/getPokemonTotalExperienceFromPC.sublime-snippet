@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonTotalExperienceFromPC()]]></content>
-	<description></description>
+	<description>Total of experience cost of a level for the pokemon of the current box matching the ID.</description>
 	<tabTrigger>getPokemonTotalExperienceFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

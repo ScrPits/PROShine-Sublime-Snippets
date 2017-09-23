@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonHealthPercentFromPC()]]></content>
-	<description></description>
+	<description>Returns the percentage of remaining health of the specified pokémon in the Pc.</description>
 	<tabTrigger>getPokemonHealthPercentFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

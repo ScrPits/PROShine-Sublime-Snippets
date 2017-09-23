@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getDiscoverableItems()]]></content>
-	<description></description>
+	<description>return an array of all discoverable items on the currrent map. format : {index = {"x" = x, "y" = y}}</description>
 	<tabTrigger>getDiscoverableItems</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

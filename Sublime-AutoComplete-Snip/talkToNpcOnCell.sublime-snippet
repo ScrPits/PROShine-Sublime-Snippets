@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[talkToNpcOnCell()]]></content>
-	<description></description>
+	<description>Moves then talk to NPC located on the specified cell.</description>
 	<tabTrigger>talkToNpcOnCell</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

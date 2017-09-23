@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonMoveDamageType()]]></content>
-	<description></description>
+	<description>Returns the move damage type of the specified pokémon in the team at the specified index.</description>
 	<tabTrigger>getPokemonMoveDamageType</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

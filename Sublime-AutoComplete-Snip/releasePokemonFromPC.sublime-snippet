@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[releasePokemonFromPC()]]></content>
-	<description></description>
+	<description>Releases the specified pokemon in the PC.</description>
 	<tabTrigger>releasePokemonFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

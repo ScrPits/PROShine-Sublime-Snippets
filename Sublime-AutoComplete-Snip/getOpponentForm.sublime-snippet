@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getOpponentForm()]]></content>
-	<description></description>
+	<description>Returns the form of the opponent pokémon in the current battle (0 if no form).</description>
 	<tabTrigger>getOpponentForm</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonStat()]]></content>
-	<description></description>
+	<description>Returns the value for the specified stat of the specified pokémon in the team.</description>
 	<tabTrigger>getPokemonStat</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

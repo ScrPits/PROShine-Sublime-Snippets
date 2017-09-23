@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonAbilityFromPC()]]></content>
-	<description></description>
+	<description>Ability of the pokemon of the current box matching the ID.</description>
 	<tabTrigger>getPokemonAbilityFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

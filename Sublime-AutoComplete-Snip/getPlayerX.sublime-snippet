@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPlayerX()]]></content>
-	<description></description>
+	<description>Returns the X-coordinate of the current cell.</description>
 	<tabTrigger>getPlayerX</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[swapPokemonWithLeader()]]></content>
-	<description></description>
+	<description>Swaps the first pokémon with the specified name with the leader of the team.</description>
 	<tabTrigger>swapPokemonWithLeader</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

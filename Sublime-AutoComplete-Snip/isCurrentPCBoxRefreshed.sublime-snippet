@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isCurrentPCBoxRefreshed()]]></content>
-	<description></description>
+	<description>Is the currentPcBox refreshed yet?</description>
 	<tabTrigger>isCurrentPCBoxRefreshed</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

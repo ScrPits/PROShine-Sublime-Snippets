@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[hasPokemonTeam()]]></content>
-	<description></description>
-	<tabTrigger>hasPokemonTeam</tabTrigger>
-	<scope>source.lua</scope>
-</snippet>

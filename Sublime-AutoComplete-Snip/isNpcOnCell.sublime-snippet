@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isNpcOnCell()]]></content>
-	<description></description>
+	<description>Returns true if there is a visible NPC the specified coordinates.</description>
 	<tabTrigger>isNpcOnCell</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

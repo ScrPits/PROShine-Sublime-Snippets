@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonHeldItem()]]></content>
-	<description></description>
+	<description>Returns the item held by the specified pokemon in the team, null if empty.</description>
 	<tabTrigger>getPokemonHeldItem</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

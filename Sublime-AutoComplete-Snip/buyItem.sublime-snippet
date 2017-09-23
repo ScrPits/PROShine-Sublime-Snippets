@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[buyItem()]]></content>
-	<description></description>
+	<description>Buys the specified item from the opened shop.</description>
 	<tabTrigger>buyItem</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

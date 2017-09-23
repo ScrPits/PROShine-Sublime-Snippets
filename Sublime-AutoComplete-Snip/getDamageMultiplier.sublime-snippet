@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getDamageMultiplier()]]></content>
-	<description></description>
+	<description>Returns the multiplier of the damage type between an attacking type and one or two defending types.</description>
 	<tabTrigger>getDamageMultiplier</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

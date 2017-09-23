@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[hasPokemonInTeam()]]></content>
+	<description>Returns true if the specified pokémon is present in the team.</description>
+	<tabTrigger>hasPokemonInTeam</tabTrigger>
+	<scope>source.lua</scope>
+</snippet>

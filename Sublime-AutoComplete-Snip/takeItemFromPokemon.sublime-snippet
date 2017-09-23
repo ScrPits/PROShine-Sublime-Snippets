@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[takeItemFromPokemon()]]></content>
-	<description></description>
+	<description>Take the held item from the specified pokemon.</description>
 	<tabTrigger>takeItemFromPokemon</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

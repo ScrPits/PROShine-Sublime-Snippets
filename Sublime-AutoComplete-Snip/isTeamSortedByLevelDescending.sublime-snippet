@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isTeamSortedByLevelDescending()]]></content>
-	<description></description>
+	<description>Returns true if the team is sorted by level in descending order.</description>
 	<tabTrigger>isTeamSortedByLevelDescending</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

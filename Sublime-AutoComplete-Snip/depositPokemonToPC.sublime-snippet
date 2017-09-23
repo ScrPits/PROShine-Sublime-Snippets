@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[depositPokemonToPC()]]></content>
-	<description></description>
+	<description>Deposit a pokemon to the pc.</description>
 	<tabTrigger>depositPokemonToPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[weakAttack()]]></content>
-	<description></description>
+	<description>Uses the least effective offensive move available.</description>
 	<tabTrigger>weakAttack</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

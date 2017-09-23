@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[talkToNpc()]]></content>
-	<description></description>
+	<description>Moves then talk to NPC specified by its name.</description>
 	<tabTrigger>talkToNpc</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

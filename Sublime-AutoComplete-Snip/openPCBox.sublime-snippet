@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[openPCBox()]]></content>
-	<description></description>
+	<description>Open PC box from the PokeCenter.</description>
 	<tabTrigger>openPCBox</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

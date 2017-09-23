@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[moveToRectangle()]]></content>
-	<description></description>
+	<description>Moves to a random accessible cell of the specified rectangle. (x1, y1, x2, y2)</description>
 	<tabTrigger>moveToRectangle</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

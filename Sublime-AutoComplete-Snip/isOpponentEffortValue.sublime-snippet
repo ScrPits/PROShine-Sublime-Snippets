@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isOpponentEffortValue()]]></content>
-	<description></description>
+	<description>Returns true if the opponent is only giving the specified effort value.</description>
 	<tabTrigger>isOpponentEffortValue</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

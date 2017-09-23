@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonId()]]></content>
-	<description></description>
+	<description>Returns the ID of the specified pokémon in the team.</description>
 	<tabTrigger>getPokemonId</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[usePokecenter()]]></content>
-	<description></description>
+	<description>Moves to the Nurse Joy then talk to the cell below her.</description>
 	<tabTrigger>usePokecenter</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getOpponentName()]]></content>
-	<description></description>
+	<description>Returns the name of the opponent pokémon in the current battle.</description>
 	<tabTrigger>getOpponentName</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[log()]]></content>
-	<description></description>
+	<description>Displays the specified message to the message log.</description>
 	<tabTrigger>log</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

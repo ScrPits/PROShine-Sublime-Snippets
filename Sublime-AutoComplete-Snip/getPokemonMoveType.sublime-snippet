@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonMoveType()]]></content>
-	<description></description>
+	<description>Returns the move type of the specified pokémon in the team at the specified index.</description>
 	<tabTrigger>getPokemonMoveType</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

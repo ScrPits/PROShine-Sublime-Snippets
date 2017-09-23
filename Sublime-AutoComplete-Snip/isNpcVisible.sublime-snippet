@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isNpcVisible()]]></content>
-	<description></description>
+	<description>Returns true if there is a visible NPC with the specified name on the map.</description>
 	<tabTrigger>isNpcVisible</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

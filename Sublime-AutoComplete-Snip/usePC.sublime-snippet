@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[usePC()]]></content>
-	<description></description>
+	<description>Move to the PC and opens it, refreshing the first box.</description>
 	<tabTrigger>usePC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

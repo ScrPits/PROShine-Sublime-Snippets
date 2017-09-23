@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getActiveDigSpots()]]></content>
-	<description></description>
+	<description>return an array of all usable Dig Spots on the currrent map. format : {index = {"x" = x, "y" = y}}</description>
 	<tabTrigger>getActiveDigSpots</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

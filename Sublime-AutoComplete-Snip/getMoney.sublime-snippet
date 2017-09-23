@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getMoney()]]></content>
-	<description></description>
+	<description>Returns the amount of money in the inventory.</description>
 	<tabTrigger>getMoney</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

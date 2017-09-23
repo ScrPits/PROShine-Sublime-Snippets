@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[pushDialogAnswer()]]></content>
-	<description></description>
+	<description>Adds the specified answer to the answer queue. It will be used in the next dialog.</description>
 	<tabTrigger>pushDialogAnswer</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

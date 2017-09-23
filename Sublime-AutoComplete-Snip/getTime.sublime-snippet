@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getTime()]]></content>
-	<description></description>
+	<description>Return the current in game hour and minute.</description>
 	<tabTrigger>getTime</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonTypeFromPC()]]></content>
-	<description></description>
+	<description>Type of the pokemon of the current box matching the ID as an array of length 2.</description>
 	<tabTrigger>getPokemonTypeFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

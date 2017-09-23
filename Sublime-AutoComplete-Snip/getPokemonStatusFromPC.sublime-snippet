@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonStatusFromPC()]]></content>
-	<description></description>
+	<description>Returns the value for the specified stat of the specified pokémon in the PC.</description>
 	<tabTrigger>getPokemonStatusFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

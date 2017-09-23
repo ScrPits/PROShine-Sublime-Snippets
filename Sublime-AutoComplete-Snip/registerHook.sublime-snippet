@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[registerHook()]]></content>
-	<description></description>
+	<description>Calls the specified function when the specified event occurs.</description>
 	<tabTrigger>registerHook</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

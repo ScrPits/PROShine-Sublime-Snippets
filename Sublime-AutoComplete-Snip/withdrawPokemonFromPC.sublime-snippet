@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[withdrawPokemonFromPC()]]></content>
-	<description></description>
+	<description>Withdraw a pokemon from a known box.</description>
 	<tabTrigger>withdrawPokemonFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

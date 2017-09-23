@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonEffortValue()]]></content>
-	<description></description>
+	<description>Returns the effort value for the specified stat of the specified pokémon in the team.</description>
 	<tabTrigger>getPokemonEffortValue</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[playSound()]]></content>
-	<description></description>
+	<description>Returns playing a custom sound.</description>
 	<tabTrigger>playSound</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

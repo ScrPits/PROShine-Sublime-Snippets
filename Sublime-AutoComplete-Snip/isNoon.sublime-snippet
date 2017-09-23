@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isNoon()]]></content>
-	<description></description>
+	<description>Return true if noon time.</description>
 	<tabTrigger>isNoon</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

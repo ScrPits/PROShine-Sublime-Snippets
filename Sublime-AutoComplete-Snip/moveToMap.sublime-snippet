@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[moveToMap()]]></content>
-	<description></description>
+	<description>Moves to the nearest cell teleporting to the specified map.</description>
 	<tabTrigger>moveToMap</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

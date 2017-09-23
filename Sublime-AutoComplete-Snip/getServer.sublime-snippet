@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getServer()]]></content>
-	<description></description>
+	<description>Returns the connected server</description>
 	<tabTrigger>getServer</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

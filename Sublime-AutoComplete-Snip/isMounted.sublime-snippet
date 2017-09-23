@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isMounted()]]></content>
-	<description></description>
+	<description>Returns true if the player is riding a mount or the bicycle.</description>
 	<tabTrigger>isMounted</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

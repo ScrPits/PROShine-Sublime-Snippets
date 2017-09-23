@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getNpcData()]]></content>
-	<description></description>
+	<description>return npc data on current map, format : { { "x" = x , "y" = y, "type" = type }, {...}, ... }</description>
 	<tabTrigger>getNpcData</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

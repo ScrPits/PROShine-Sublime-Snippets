@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[swapPokemon()]]></content>
-	<description></description>
+	<description>Swaps the two pokémon specified by their position in the team.</description>
 	<tabTrigger>swapPokemon</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

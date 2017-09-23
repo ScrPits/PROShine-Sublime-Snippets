@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getOpponentType()]]></content>
-	<description></description>
+	<description>Returns the type of the opponent pokémon in the current battle as an array of length 2.</description>
 	<tabTrigger>getOpponentType</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

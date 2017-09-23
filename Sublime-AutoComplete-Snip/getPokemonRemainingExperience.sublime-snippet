@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonRemainingExperience()]]></content>
-	<description></description>
+	<description>Returns the remaining experience of a pokemon before next level.</description>
 	<tabTrigger>getPokemonRemainingExperience</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokedexEvolved()]]></content>
-	<description></description>
+	<description>Returns Evolved Entry of the pokedex.</description>
 	<tabTrigger>getPokedexEvolved</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

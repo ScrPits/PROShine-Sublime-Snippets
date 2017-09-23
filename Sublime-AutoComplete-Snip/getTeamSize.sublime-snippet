@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getTeamSize()]]></content>
-	<description></description>
+	<description>Returns the amount of pokémon in the team.</description>
 	<tabTrigger>getTeamSize</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

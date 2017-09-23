@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getOpponentEffortValue()]]></content>
-	<description></description>
+	<description>Returns the amount of a particular EV given by the opponent.</description>
 	<tabTrigger>getOpponentEffortValue</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

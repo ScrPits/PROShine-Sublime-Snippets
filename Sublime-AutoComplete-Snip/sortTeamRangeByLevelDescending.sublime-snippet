@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[sortTeamRangeByLevelDescending()]]></content>
-	<description></description>
+	<description>Sorts the specified part of the team by level in descending order, one pokémon at a time.</description>
 	<tabTrigger>sortTeamRangeByLevelDescending</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[sortTeamByLevelAscending()]]></content>
-	<description></description>
+	<description>Sorts the pokémon in the team by level in ascending order, one pokémon at a time.</description>
 	<tabTrigger>sortTeamByLevelAscending</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

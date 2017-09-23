@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isOpponentShiny()]]></content>
-	<description></description>
+	<description>Returns true if the opponent pokémon is shiny.</description>
 	<tabTrigger>isOpponentShiny</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

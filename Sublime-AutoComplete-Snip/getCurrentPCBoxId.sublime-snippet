@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getCurrentPCBoxId()]]></content>
-	<description></description>
+	<description>Get the active PC Box.</description>
 	<tabTrigger>getCurrentPCBoxId</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

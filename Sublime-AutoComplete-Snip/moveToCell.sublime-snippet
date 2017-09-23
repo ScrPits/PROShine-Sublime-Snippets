@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[moveToCell()]]></content>
-	<description></description>
+	<content><![CDATA[moveToCell(x, y)]]></content>
+	<description>Moves to the specified coordinates.</description>
 	<tabTrigger>moveToCell</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

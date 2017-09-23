@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isAlreadyCaught()]]></content>
-	<description></description>
+	<description>Returns true if the opponent pokémon has already been caught and has a pokédex entry.</description>
 	<tabTrigger>isAlreadyCaught</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

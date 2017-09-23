@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[run()]]></content>
-	<description></description>
+	<description>Tries to escape from the current wild battle.</description>
 	<tabTrigger>run</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

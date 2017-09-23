@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isPrivateMessageEnabled()]]></content>
-	<description></description>
+	<description>Check if the private message from normal users are blocked.</description>
 	<tabTrigger>isPrivateMessageEnabled</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

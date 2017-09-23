@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonRegion()]]></content>
-	<description></description>
+	<description>Returns the region of capture of the specified pokémon in the team.</description>
 	<tabTrigger>getPokemonRegion</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

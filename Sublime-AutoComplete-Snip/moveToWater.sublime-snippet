@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[moveToWater()]]></content>
-	<description></description>
+	<description>Moves to the nearest water area then move randomly inside it.</description>
 	<tabTrigger>moveToWater</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

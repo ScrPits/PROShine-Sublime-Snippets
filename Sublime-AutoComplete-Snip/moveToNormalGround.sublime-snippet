@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[moveToNormalGround()]]></content>
-	<description></description>
+	<description>Move randomly avoiding water and links.</description>
 	<tabTrigger>moveToNormalGround</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[disableAutoEvolve()]]></content>
-	<description></description>
+	<description>Disable auto evolve on PrO Shine client.</description>
 	<tabTrigger>disableAutoEvolve</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

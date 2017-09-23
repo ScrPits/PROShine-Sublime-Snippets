@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isShopOpen()]]></content>
-	<description></description>
+	<description>Returns true if there is a shop opened.</description>
 	<tabTrigger>isShopOpen</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

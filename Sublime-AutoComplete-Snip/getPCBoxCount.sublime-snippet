@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPCBoxCount()]]></content>
-	<description></description>
+	<description>Return the number of non-empty boxes in the PC.</description>
 	<tabTrigger>getPCBoxCount</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

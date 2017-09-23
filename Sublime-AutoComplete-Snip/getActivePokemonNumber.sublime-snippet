@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getActivePokemonNumber()]]></content>
-	<description></description>
+	<description>Returns the index of the active team pokémon in the current battle.</description>
 	<tabTrigger>getActivePokemonNumber</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

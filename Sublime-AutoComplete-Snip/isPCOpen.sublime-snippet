@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isPCOpen()]]></content>
-	<description></description>
+	<description>Check if the PC is open. Moving close the PC, usePC() opens it.</description>
 	<tabTrigger>isPCOpen</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

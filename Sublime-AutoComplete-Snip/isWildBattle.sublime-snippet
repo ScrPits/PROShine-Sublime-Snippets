@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isWildBattle()]]></content>
-	<description></description>
+	<description>Returns true if the current battle is against a wild pokémon.</description>
 	<tabTrigger>isWildBattle</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

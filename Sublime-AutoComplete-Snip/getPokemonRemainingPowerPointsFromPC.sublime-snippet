@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonRemainingPowerPointsFromPC()]]></content>
-	<description></description>
+	<description>Current move PP of the pokemon of the current box matching the ID.</description>
 	<tabTrigger>getPokemonRemainingPowerPointsFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

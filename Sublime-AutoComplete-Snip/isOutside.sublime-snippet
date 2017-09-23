@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isOutside()]]></content>
-	<description></description>
+	<description>Return true if the character is outside.</description>
 	<tabTrigger>isOutside</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

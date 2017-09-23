@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonHeldItemFromPC()]]></content>
-	<description></description>
+	<description>Returns the item held by the specified pokemon in the PC, null if empty.</description>
 	<tabTrigger>getPokemonHeldItemFromPC</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

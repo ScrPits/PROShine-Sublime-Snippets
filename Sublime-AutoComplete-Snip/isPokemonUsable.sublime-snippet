@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[isPokemonUsable()]]></content>
-	<description></description>
+	<description>Returns true if the specified pokémon has is alive and has an offensive attack available.</description>
 	<tabTrigger>isPokemonUsable</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

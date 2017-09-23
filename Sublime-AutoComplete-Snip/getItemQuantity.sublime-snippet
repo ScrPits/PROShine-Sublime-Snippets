@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getItemQuantity()]]></content>
-	<description></description>
+	<description>Returns the quantity of the specified item in the inventory.</description>
 	<tabTrigger>getItemQuantity</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>

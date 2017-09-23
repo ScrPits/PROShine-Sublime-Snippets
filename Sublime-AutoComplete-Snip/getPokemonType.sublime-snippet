@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[getPokemonType()]]></content>
-	<description></description>
+	<description>Returns the type of the specified pokémon in the team as an array of length 2.</description>
 	<tabTrigger>getPokemonType</tabTrigger>
 	<scope>source.lua</scope>
 </snippet>
