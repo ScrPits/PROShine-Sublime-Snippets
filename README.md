@@ -209,9 +209,8 @@
     ["forgetAnyMoveExcept"] 
 ```
 
-> These Lua Functions are not added to the source yet.
-
 ## Custom option slider functions
+> These Lua Functions are not added to the source yet.
 ```
     ["setOption"]
     ["getOption"]
@@ -220,6 +219,7 @@
     ["removeOption"] 
 ```
 ## Custom text option functions
+> These Lua Functions are not added to the source yet.
 ```
     ["setTextOption"]
     ["getTextOption"] 
@@ -228,12 +228,14 @@
     ["removeTextOption"]
 ```
 ## File editing actions
+> These Lua Functions are not added to the source yet.
 ```
     ["logToFile"]
     ["readLinesFromFile"]
     ["getInputDialog"]
 ```
 ## Taos
+> These Lua Functions are not added to the source yet.
 ```
     ["getSpawnList"] 
 
